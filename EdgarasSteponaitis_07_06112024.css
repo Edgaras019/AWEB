@@ -1,0 +1,54 @@
+/*
+Edgaras Steponaitis Las Listas Ej2
+*/
+
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+section{
+    width: 70%;
+    margin: auto;
+    border: dashed;
+    padding: 15px;
+}
+
+ol ol {
+    list-style-type: lower-roman;
+}
+
+.listaDesordenada{
+    background-color: bisque;
+}
+
+.ListaOrdenada{
+    background-color: cornflowerblue;
+}
+
+.listaDefinicion{
+    background-color: darkgreen;
+}
+
+#PC {
+   border-radius: 10px;  
+}
+
+#t1 {
+    list-style-type: lower-roman;
+}
+
+#t2 {
+    list-style-type: decimal;
+}
+
+#t3 {
+    list-style-type: disc;
+}
+
+#t4 {
+    list-style-type: square;
+}

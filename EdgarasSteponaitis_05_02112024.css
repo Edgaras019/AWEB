@@ -1,0 +1,59 @@
+/*
+Edgaras Steponaitis Practica 5
+*/
+
+body{
+    color:black
+}
+h1{
+    color:black
+    
+}
+div{
+    width: 150px;
+    height: 100px;
+    padding: 30px;
+}
+#cn{
+    background-color: gray;
+    clear: both;
+    width: 100%;
+    text-align: start;
+}
+#ca{
+    background-color:blue;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 80%;
+    text-align: center;
+    margin: 20px;
+}
+#br{
+    background-color: red;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 80%;
+    text-align: center;
+    margin: 20px;
+}
+#bv{
+    background-color: yellow;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 80%;
+    text-align: center;
+    margin: 20px;
+}
+#cv{
+    background-color: green;
+    clear: both;
+    width: 100%;
+}
+#ba{
+    background-color: blue;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 80%;
+    text-align: center;
+    margin: 20px;
+}

@@ -1,0 +1,14 @@
+/*
+Practica 10 Videos
+*/
+
+video,audio,iframe{
+    width: 80%;
+    margin: auto;
+    display: block;
+    padding-top: 20px;
+}
+
+audio{
+    padding-top: 50px;
+}

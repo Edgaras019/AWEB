@@ -1,0 +1,63 @@
+/*
+Edgaras Steponaitis EJ9
+*/
+
+*{
+    box-sizing: border-box;
+}
+
+header,footer{
+    background-color: white;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+.separador1{
+    height: 10px;
+    clear: both;
+}
+
+.separador2{
+    width: 10px;
+    clear: both;
+}
+
+.centro{
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+body{
+    background-image: url(Imágenes/foto1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: grey;
+}
+
+.main{
+    height: 1200px;
+}
+
+.main img{
+    width: 50%;
+    float: left;
+
+}
+
+img{
+    transition: all 0.5s ease;
+    border-style: solid;
+    border-color: white;
+}
+
+img:hover{
+    transform: scale(0.9);
+    border-radius: 30px;
+}

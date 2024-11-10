@@ -1,0 +1,35 @@
+/*
+Edgaras Steponaitis Práctica 11 
+Fuentes de texto
+
+  font-family: "Caveat", cursive;
+  font-family: "Permanent Marker", cursive;
+  font-family: "Permanent Marker", cursive;
+  font-family: "Amatic SC", sans-serif;
+
+*/
+
+h1,h2{
+    text-align: center;
+    padding: 15px;
+}
+
+section{
+    display: flex;
+}
+
+.s1{
+    font-family: "Caveat", cursive;
+}
+
+.s2{
+    font-family: "Permanent Marker", cursive;
+}
+
+.s3{
+    font-family: "Permanent Marker", cursive;
+}
+
+.s4{
+    font-family: "Amatic SC", sans-serif;
+}

@@ -1,0 +1,47 @@
+/*
+Edgaras Steponaitis Las Tablas
+*/
+
+h1{
+    text-align: center;
+}
+
+table{
+    margin-top: 50px;
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+td,th{
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+caption{
+    padding: 20px
+}
+
+.t1{
+    background-color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.t2{
+    background-color: aqua;
+}
+
+.t4{
+    background-color: aqua;
+}
+
+.t6{
+    background-color: aqua;
+}
